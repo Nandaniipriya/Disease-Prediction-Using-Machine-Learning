@@ -1,7 +1,7 @@
 # Diabetes Prediction from Medical Records
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Image" width="80%">
+  <img src="https://github.com/Nandaniipriya/Disease-Prediction-Using-Machine-Learning/raw/main/assests/banner.png" alt="Banner Image" width="80%">
 </p>
 
 ## Project Overview
@@ -58,7 +58,7 @@ The project follows a structured data analysis and machine learning pipeline, co
    - Document the model's limitations and potential areas for future improvement.
 
 <p align="center">
-  <img src="assets/workflow.png" alt="Workflow" width="80%">
+  <img src="https://github.com/Nandaniipriya/Disease-Prediction-Using-Machine-Learning/raw/main/assests/workflow.png" alt="Workflow" width="80%">
 </p>
 
 ## Results and Findings
@@ -70,11 +70,11 @@ The best-performing model in our experiments was the XGBoost Classifier, which a
 4. **Age**
 
 <p align="center">
-  <img src="assets/confusion-matrix.png" alt="Confusion-matrix" width="80%">
+  <img src="https://github.com/Nandaniipriya/Disease-Prediction-Using-Machine-Learning/raw/main/assests/confusion-matrix.png" alt="Confusion-matrix" width="80%">
 </p>
 
 <p align="center">
-  <img src="assets/decision-tree.png" alt="Decision-tree" width="80%">
+  <img src="https://github.com/Nandaniipriya/Disease-Prediction-Using-Machine-Learning/raw/main/assests/decision-tree.png" alt="Decision-tree" width="80%">
 </p>
 
 The feature importance analysis reveals that factors like body mass index, genetic predisposition, and blood glucose levels are the key predictors of diabetes, aligning with our understanding of the disease. These insights can be valuable for healthcare professionals in identifying high-risk individuals and implementing targeted preventive strategies.
